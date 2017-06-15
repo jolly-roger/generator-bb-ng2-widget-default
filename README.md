@@ -19,7 +19,7 @@ yarn global add generator-bb-ng2-widget-default
 ```
 
 ### Usage
-In order to generate Backbase angular widget just run following command
+In order to generate Backbase Angular widget just run following command
 
 ```bash
 yo bb-ng2-widget-default
